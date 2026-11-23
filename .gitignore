@@ -1,0 +1,21 @@
+# Gradle / ビルド生成物
+.gradle/
+build/
+.kotlin/
+
+# PC 固有の設定（Android SDK の場所など）
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 配布物・アーカイブ（APK は Releases で配布）
+*.apk
+*.aab
+*.zip
+
+# 署名鍵
+*.jks
+*.keystore

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">コードウィジェット</string>
+    <string name="widget_label">コードウィジェット</string>
+    <string name="widget_desc">JavaScriptで作るウィジェット</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#5B5BD6</item>
+        <item name="colorPrimaryDark">#3E3EA8</item>
+        <item name="colorAccent">#5B5BD6</item>
+        <!-- Android 15 の全画面表示を無効にして、ステータスバー・タイトルバーと重ならないようにする -->
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
